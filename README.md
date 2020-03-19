@@ -1,5 +1,5 @@
 # QuadTelemetrySuite
-Visualization suite running in a local web browser
+Visualization suite running in a local web browser to visualize relevant state information of a quadrotor in flight.
 
 ---
 # Front End Visualization
